@@ -1,0 +1,55 @@
+{
+  "launcherName": "TERRA PROJECT",
+  "gameAppId": "221100",
+  "remoteConfigUrl": "",
+  "servers": [
+    {
+      "name": "Terra Deerisle",
+      "host": "185.207.214.155",
+      "port": 2302,
+      "queryPort": 2303,
+      "map": "Deerisle",
+      "description": "Первый сервер проекта с уникальной атмосферой загадочного острова, сюжетной линией и историей группировок STAG.",
+      "badge": "СЮЖЕТ",
+      "accent": "#B6F047",
+      "tags": [ "СЮЖЕТ", "DEERISLE" ],
+      "mods": []
+    },
+    {
+      "name": "Terra Cherno",
+      "host": "185.207.214.155",
+      "port": 2316,
+      "queryPort": 2317,
+      "map": "Chernarus",
+      "description": "Классический сервер Terra на карте Chernarus.",
+      "badge": "КЛАССИКА",
+      "accent": "#FF8A00",
+      "tags": [ "КЛАССИКА", "CHERNARUS" ],
+      "mods": []
+    },
+    {
+      "name": "Terra Frostline",
+      "host": "185.207.214.252",
+      "port": 2309,
+      "queryPort": 2310,
+      "map": "Frostline",
+      "description": "Зимний сервер Terra для Frostline.",
+      "badge": "ЗИМА",
+      "accent": "#33B9FF",
+      "tags": [ "ЗИМА", "FROSTLINE" ],
+      "mods": []
+    },
+    {
+      "name": "Terra Lux",
+      "host": "185.207.214.252",
+      "port": 2323,
+      "queryPort": 2324,
+      "map": "Lux",
+      "description": "Авторский Terra Lux сервер.",
+      "badge": "БЕТА",
+      "accent": "#FF8A3D",
+      "tags": [ "БЕТА", "LUX" ],
+      "mods": []
+    }
+  ]
+}
