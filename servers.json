@@ -1,7 +1,8 @@
 {
   "launcherName": "TERRA PROJECT",
   "gameAppId": "221100",
-  "remoteConfigUrl": "",
+  "remoteConfigUrl": "https://raw.githubusercontent.com/killakisa/terra-launcher-config/main/servers.json",
+  "remoteNewsUrl": "https://raw.githubusercontent.com/killakisa/terra-launcher-config/main/news.json",
   "servers": [
     {
       "name": "Terra Deerisle",
@@ -13,7 +14,28 @@
       "badge": "СЮЖЕТ",
       "accent": "#B6F047",
       "tags": [ "СЮЖЕТ", "DEERISLE" ],
-      "mods": []
+      "mods": [
+        { "id": "1559212036", "name": "CF" },
+        { "id": "1602372402", "name": "Deerisle" },
+        { "id": "2545327648", "name": "Dabs Framework" },
+        { "id": "2291785308", "name": "DayZ-Expansion-Core" },
+        { "id": "2792982069", "name": "DayZ-Expansion-AI" },
+        { "id": "2828486817", "name": "DayZ-Expansion-Quests" },
+        { "id": "2572328470", "name": "DayZ-Expansion-Market" },
+        { "id": "2828487396", "name": "DayZ-Expansion-Hardline" },
+        { "id": "2906371600", "name": "RedFalcon Watercraft" },
+        { "id": "2692979668", "name": "RedFalcon Flight System Heliz" },
+        { "id": "2937138060", "name": "FC_Fish_Equip" },
+        { "id": "3593392068", "name": "Terra Scripts" },
+        { "id": "3593396543", "name": "Terra Weapons" },
+        { "id": "3216557177", "name": "Terra structures" },
+        { "id": "3225250584", "name": "Terra clothes" },
+        { "id": "3216606290", "name": "Terra creatures" },
+        { "id": "3216597753", "name": "Terra vehicles" },
+        { "id": "3593389490", "name": "Terra Helicopter" },
+        { "id": "2936585965", "name": "SearchInventory" },
+        { "id": "3231386993", "name": "KGB.LIB" }
+      ]
     },
     {
       "name": "Terra Cherno",
@@ -25,7 +47,27 @@
       "badge": "КЛАССИКА",
       "accent": "#FF8A00",
       "tags": [ "КЛАССИКА", "CHERNARUS" ],
-      "mods": []
+      "mods": [
+        { "id": "1559212036", "name": "CF" },
+        { "id": "2545327648", "name": "Dabs Framework" },
+        { "id": "2291785308", "name": "DayZ-Expansion-Core" },
+        { "id": "2792982069", "name": "DayZ-Expansion-AI" },
+        { "id": "2828486817", "name": "DayZ-Expansion-Quests" },
+        { "id": "2572328470", "name": "DayZ-Expansion-Market" },
+        { "id": "2828487396", "name": "DayZ-Expansion-Hardline" },
+        { "id": "2906371600", "name": "RedFalcon Watercraft" },
+        { "id": "2692979668", "name": "RedFalcon Flight System Heliz" },
+        { "id": "2937138060", "name": "FC_Fish_Equip" },
+        { "id": "3593392068", "name": "Terra Scripts" },
+        { "id": "3593396543", "name": "Terra Weapons" },
+        { "id": "3216557177", "name": "Terra structures" },
+        { "id": "3225250584", "name": "Terra clothes" },
+        { "id": "3216606290", "name": "Terra creatures" },
+        { "id": "3216597753", "name": "Terra vehicles" },
+        { "id": "3593389490", "name": "Terra Helicopter" },
+        { "id": "2936585965", "name": "SearchInventory" },
+        { "id": "3231386993", "name": "KGB.LIB" }
+      ]
     },
     {
       "name": "Terra Frostline",
@@ -37,7 +79,25 @@
       "badge": "ЗИМА",
       "accent": "#33B9FF",
       "tags": [ "ЗИМА", "FROSTLINE" ],
-      "mods": []
+      "mods": [
+        { "id": "1559212036", "name": "CF" },
+        { "id": "2545327648", "name": "Dabs Framework" },
+        { "id": "2291785308", "name": "DayZ-Expansion-Core" },
+        { "id": "2792982069", "name": "DayZ-Expansion-AI" },
+        { "id": "2828486817", "name": "DayZ-Expansion-Quests" },
+        { "id": "2572328470", "name": "DayZ-Expansion-Market" },
+        { "id": "2828487396", "name": "DayZ-Expansion-Hardline" },
+        { "id": "2906371600", "name": "RedFalcon Watercraft" },
+        { "id": "2937138060", "name": "FC_Fish_Equip" },
+        { "id": "3593392068", "name": "Terra Scripts" },
+        { "id": "3593396543", "name": "Terra Weapons" },
+        { "id": "3216557177", "name": "Terra structures" },
+        { "id": "3225250584", "name": "Terra clothes" },
+        { "id": "3216606290", "name": "Terra creatures" },
+        { "id": "3216597753", "name": "Terra vehicles" },
+        { "id": "2936585965", "name": "SearchInventory" },
+        { "id": "3231386993", "name": "KGB.LIB" }
+      ]
     },
     {
       "name": "Terra Lux",
